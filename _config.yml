@@ -5,7 +5,7 @@ header-img: img/bg.png
 email: 1508230297@qq.com
 description: "关于前端开发，OI，c++ | 闫辛祎，florr，OIer | 这里是 @Crathu闫辛祎 的个人博客，与你一起发现更大的世界。"
 keyword: "闫辛祎,Crathu闫辛祎,Crathu, OI, 闫辛祎的博客, Crathu Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://sdfzyanxinyi.github.io"              # your host, for absolute URL
+url: "https://qinghe14.github.io/blogs"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
